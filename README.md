@@ -1,7 +1,7 @@
 # React + Vite
 
 ## 🚀 Live Demo  
-👉 [View the Live App](https://paste-app-bpn5-ktvtzybir-aryan-kardams-projects.vercel.app)
+👉 [View the Live App](https://note-paste-app-git-main-aryan-kardams-projects.vercel.app)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
